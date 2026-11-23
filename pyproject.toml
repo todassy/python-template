@@ -4,16 +4,16 @@ version = "0.0.1"
 description = "Python package template"
 readme = "README.md"
 authors = [
-    {name = "todassy3"}
+    {name = "todassy"}
 ]
 maintainers = [
-    {name = "todassy3"}
+    {name = "todassy"}
 ]
 requires-python = ">=3.13"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/todassy3/python-template"
+Repository = "https://github.com/todassy/python-template"
 
 [project.scripts]
 mypackage = "mypackage.main:_main"

@@ -1,8 +1,8 @@
 # python-template
 
-[![CI](https://github.com/todassy3/python-template/actions/workflows/ci.yml/badge.svg)](https://github.com/todassy3/python-template/actions/workflows/ci.yml)
-[![Codecov](https://codecov.io/github/todassy3/python-template/graph/badge.svg?token=V17WX3DCH5)](https://codecov.io/github/todassy3/python-template)
-[![Dependabot Updates](https://github.com/todassy3/python-template/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/todassy3/python-template/actions/workflows/dependabot/dependabot-updates)
+[![CI](https://github.com/todassy/python-template/actions/workflows/ci.yml/badge.svg)](https://github.com/todassy/python-template/actions/workflows/ci.yml)
+[![Codecov](https://codecov.io/github/todassy/python-template/graph/badge.svg?token=V17WX3DCH5)](https://codecov.io/github/todassy/python-template)
+[![Dependabot Updates](https://github.com/todassy/python-template/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/todassy/python-template/actions/workflows/dependabot/dependabot-updates)
 
 ## Install
 
